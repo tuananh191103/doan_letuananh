@@ -1,0 +1,10 @@
+D:\Jquery\Do_An\CommomSentMail\bin\Release\CommomSentMail.dll
+D:\Jquery\Do_An\CommomSentMail\bin\Release\CommomSentMail.pdb
+D:\Jquery\Do_An\CommomSentMail\obj\Release\CommomSentMail.dll
+D:\Jquery\Do_An\CommomSentMail\obj\Release\CommomSentMail.pdb
+E:\Do_An_momo\Do_An\CommomSentMail\bin\Release\CommomSentMail.dll
+E:\Do_An_momo\Do_An\CommomSentMail\bin\Release\CommomSentMail.pdb
+E:\Do_An_momo\Do_An\CommomSentMail\obj\Release\CommomSentMail.csproj.AssemblyReference.cache
+E:\Do_An_momo\Do_An\CommomSentMail\obj\Release\CommomSentMail.csproj.CoreCompileInputs.cache
+E:\Do_An_momo\Do_An\CommomSentMail\obj\Release\CommomSentMail.dll
+E:\Do_An_momo\Do_An\CommomSentMail\obj\Release\CommomSentMail.pdb

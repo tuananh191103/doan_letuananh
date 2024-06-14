@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Do_An\\Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|d:\\do_an\\do_an\\baitaplon\\nganluongapi\\apicheckoutv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\nganluongapi\\apicheckoutv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\webmanager\\silder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\webmanager\\silder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\nhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\nhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\content\\js\\controller\\usercontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\content\\js\\controller\\usercontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\areas\\admin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\Do_An\\baitaplon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|D:\\Do_An\\Do_An\\mood\\menumodel\\menumodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\menumodel\\menumodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APICheckoutV3.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "RelativeToolTip": "BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wDYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:35:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Silder.cshtml",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Silder.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Silder.cshtml",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Silder.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Silder.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:41:41.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhapHangController.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAswDMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:18:12.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:43:39.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usercontroller.js",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Content\\js\\Controller\\Usercontroller.js",
+              "RelativeDocumentMoniker": "BaiTapLon\\Content\\js\\Controller\\Usercontroller.js",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Content\\js\\Controller\\Usercontroller.js",
+              "RelativeToolTip": "BaiTapLon\\Content\\js\\Controller\\Usercontroller.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-15T01:51:03.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:37:22.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:36:36.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:46:05.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIAwwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:05:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIAwwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:31:48.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeNuModelView.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\Mood\\MenuModel\\MeNuModelView.cs",
+              "RelativeDocumentMoniker": "Mood\\MenuModel\\MeNuModelView.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\Mood\\MenuModel\\MeNuModelView.cs",
+              "RelativeToolTip": "Mood\\MenuModel\\MeNuModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:33:48.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Web.config",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeToolTip": "BaiTapLon\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T12:58:01.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Do_An\\Do_An\\BaiTapLon\\Startup.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Startup.cs",
+              "ToolTip": "D:\\Do_An\\Do_An\\BaiTapLon\\Startup.cs",
+              "RelativeToolTip": "BaiTapLon\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:58:00.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
